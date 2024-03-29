@@ -1,0 +1,14 @@
+{
+    "author": [
+        "kutyfr"
+    ],
+    "name": "kutyfr",
+    "short": "Cogs for Red-DiscordBot V3.",
+    "description": "Cogs for Red-DiscordBot V3.",
+    "install_msg": "Thanks for installing my repo. If you have to ask any questions ask them in Cog support discord.gg/GET4DVk in channel #support_othercogs.",
+    "tags": [
+        "general",
+        "utility",
+        "fun"
+    ]
+}
