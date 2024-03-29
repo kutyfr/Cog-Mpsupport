@@ -1,14 +1,19 @@
 {
-    "author": [
-        "kutyfr"
-    ],
-    "name": "kutyfr",
-    "short": "Cogs for Red-DiscordBot V3.",
-    "description": "Cogs for Red-DiscordBot V3.",
-    "install_msg": "Thanks for installing my repo. If you have to ask any questions ask them in Cog support discord.gg/GET4DVk in channel #support_othercogs.",
-    "tags": [
-        "general",
-        "utility",
-        "fun"
-    ]
+    "name": "redbot-support-mp",
+    "description": "Module RedBot Discord pour gérer le support via messages privés en créant des salons par utilisateur et avec une fonction pour fermer le ticket.",
+    "author": "kutyfr",
+    "version": "1.0",
+    "license": "MIT",
+    "keywords": ["discord", "redbot", "support", "messages privés"],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kutyfr/Cog-Mpsupport.git"
+    },
+    "bugs": {
+        "url": "https://github.com/VotreNom/redbot-support-mp/issues"
+    },
+    "homepage": "https://github.com/kutyfr/Cog-Mpsupport/",
+    "dependencies": {
+        "discord.py": ">=1.7.3"
+    }
 }
