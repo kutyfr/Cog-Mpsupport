@@ -1,5 +1,5 @@
 {
-    "name": "SupportMP",
+    "name": "mpbot",
     "description": "Module RedBot Discord pour gérer le support via messages privés en créant des salons par utilisateur et avec une fonction pour fermer le ticket.",
     "author": "kutyfr",
     "version": "1.0",
